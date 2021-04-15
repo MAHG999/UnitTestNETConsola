@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\PruebaUnitaria\bin\Debug\netcoreapp3.1\PruebaUnitaria.exe
+C:\Users\marco\source\repos\PruebaUnitaria\bin\Debug\netcoreapp3.1\PruebaUnitaria.deps.json
+C:\Users\marco\source\repos\PruebaUnitaria\bin\Debug\netcoreapp3.1\PruebaUnitaria.runtimeconfig.json
+C:\Users\marco\source\repos\PruebaUnitaria\bin\Debug\netcoreapp3.1\PruebaUnitaria.runtimeconfig.dev.json
+C:\Users\marco\source\repos\PruebaUnitaria\bin\Debug\netcoreapp3.1\PruebaUnitaria.dll
+C:\Users\marco\source\repos\PruebaUnitaria\bin\Debug\netcoreapp3.1\PruebaUnitaria.pdb
+C:\Users\marco\source\repos\PruebaUnitaria\obj\Debug\netcoreapp3.1\PruebaUnitaria.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\PruebaUnitaria\obj\Debug\netcoreapp3.1\PruebaUnitaria.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\PruebaUnitaria\obj\Debug\netcoreapp3.1\PruebaUnitaria.AssemblyInfo.cs
+C:\Users\marco\source\repos\PruebaUnitaria\obj\Debug\netcoreapp3.1\PruebaUnitaria.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\PruebaUnitaria\obj\Debug\netcoreapp3.1\PruebaUnitaria.dll
+C:\Users\marco\source\repos\PruebaUnitaria\obj\Debug\netcoreapp3.1\PruebaUnitaria.pdb
+C:\Users\marco\source\repos\PruebaUnitaria\obj\Debug\netcoreapp3.1\PruebaUnitaria.genruntimeconfig.cache
